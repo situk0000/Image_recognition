@@ -19,14 +19,22 @@ For this project, I used the **CIFAR-10 dataset**, which contains 60,000 32x32 c
 
 ## Project Structure
 
-├── preprocess.py # Data loading, preprocessing, and augmentation
-├── cnn_model.py # Custom CNN model training and evaluation
-├── transfer_learning.py # MobileNetV2 transfer learning model
-├── cnn_model.h5 # Trained CNN model
-├── mobilenet_model.h5 # Trained MobileNetV2 model
-├── visualizations/ # Loss/accuracy curves, confusion matrices
-├── README.md # Project summary and instructions
-└── notebook.ipynb # Colab notebook uploaded to GitHub
+├── preprocess.py 
+# Data loading, preprocessing, and augmentation
+├── cnn_model.py 
+# Custom CNN model training and evaluation
+├── transfer_learning.py
+# MobileNetV2 transfer learning model
+├── cnn_model.h5 
+# Trained CNN model
+├── mobilenet_model.h5
+# Trained MobileNetV2 model
+├── visualizations/
+# Loss/accuracy curves, confusion matrices
+├── README.md
+# Project summary and instructions
+└── notebook.ipynb 
+# Colab notebook uploaded to GitHub
 
 ## Models Implemented
 
@@ -58,7 +66,7 @@ For this project, I used the **CIFAR-10 dataset**, which contains 60,000 32x32 c
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone <your-github-repo-link>
+   git clone https://github.com/situk0000/Image_recognition.git
 Open notebook.ipynb in Google Colab
 
 Enable GPU runtime (Runtime > Change runtime type > GPU)
@@ -69,12 +77,12 @@ Trained models will be saved as .h5 files and can be used for predictions
 
 # Key Learnings
 
-Building and training a CNN from scratch
+1) Building and training a CNN from scratch
 
-Applying data augmentation and preprocessing techniques
+2) Applying data augmentation and preprocessing techniques
 
-Transfer learning to improve model performance
+3) Transfer learning to improve model performance
 
-Visualizing training metrics and evaluating models
+4) Visualizing training metrics and evaluating models
 
-Preparing portfolio-ready projects for recruiters
+5) Preparing portfolio-ready projects for recruiters
