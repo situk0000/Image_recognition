@@ -1,4 +1,4 @@
-# Image Recognition Bootcamp Project
+<img width="925" height="621" alt="image" src="https://github.com/user-attachments/assets/076bc236-f330-4831-825a-a0965ca1e6c8" /># Image Recognition Bootcamp Project
 
 ## Project Overview
 This project is part of a 5-day bootcamp aimed at transforming beginners into skilled AI practitioners. The goal is to build an **image recognition system** using Python and deep learning, applying convolutional neural networks (CNNs) and transfer learning with MobileNetV2. 
@@ -62,6 +62,10 @@ For this project, I used the **CIFAR-10 dataset**, which contains 60,000 32x32 c
 ---
 
 ## Sample Predictions
+<img width="840" height="533" alt="image" src="https://github.com/user-attachments/assets/75ad770a-715c-4575-badd-885345b1a8ea" />
+<img width="773" height="582" alt="image" src="https://github.com/user-attachments/assets/abd3c212-1cc0-494a-a2c1-5c58df6fe6fb" />
+
+
 
 ## How to Run
 1. Clone the repository:  
