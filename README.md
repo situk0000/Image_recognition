@@ -1,4 +1,3 @@
-<img width="925" height="621" alt="image" src="https://github.com/user-attachments/assets/076bc236-f330-4831-825a-a0965ca1e6c8" /># Image Recognition Bootcamp Project
 
 ## Project Overview
 This project is part of a 5-day bootcamp aimed at transforming beginners into skilled AI practitioners. The goal is to build an **image recognition system** using Python and deep learning, applying convolutional neural networks (CNNs) and transfer learning with MobileNetV2. 
